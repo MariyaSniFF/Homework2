@@ -1,0 +1,15 @@
+D:\GeekBrainsWork\Homework2\HWSem2.1\bin\Debug\net6.0\HWSem2.1.exe
+D:\GeekBrainsWork\Homework2\HWSem2.1\bin\Debug\net6.0\HWSem2.1.deps.json
+D:\GeekBrainsWork\Homework2\HWSem2.1\bin\Debug\net6.0\HWSem2.1.runtimeconfig.json
+D:\GeekBrainsWork\Homework2\HWSem2.1\bin\Debug\net6.0\HWSem2.1.dll
+D:\GeekBrainsWork\Homework2\HWSem2.1\bin\Debug\net6.0\HWSem2.1.pdb
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\HWSem2.1.csproj.AssemblyReference.cache
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\HWSem2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\HWSem2.1.AssemblyInfoInputs.cache
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\HWSem2.1.AssemblyInfo.cs
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\HWSem2.1.csproj.CoreCompileInputs.cache
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\HWSem2.1.dll
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\refint\HWSem2.1.dll
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\HWSem2.1.pdb
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\HWSem2.1.genruntimeconfig.cache
+D:\GeekBrainsWork\Homework2\HWSem2.1\obj\Debug\net6.0\ref\HWSem2.1.dll
